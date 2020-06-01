@@ -10,6 +10,8 @@ During this project we got to consolidate and expand on everything I had learnt 
 * Spring Boot DevTools & Spring Web
 * Spring Data JPA & H2 Database
 * React Native
+* Android Visual Studio
+* Expo
 * Git & GitHub
 * Agile methodologies
 
