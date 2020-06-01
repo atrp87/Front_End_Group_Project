@@ -1,5 +1,4 @@
 ## Soical Mobile Application
-### Back-End Repository https://github.com/atrp87/Back_End_Group_Project
 
 Worked in a team of three where we used Agile methodologies (SCRUM), solo and mob programming.
 
@@ -20,3 +19,5 @@ During this project we got to consolidate and expand on everything I had learnt 
 * The app should allow the user to view a list of Hosts available.
 * The app should allow the user to filter host by category, e.g. Music Genre, Venue Type and Expense.
 * The app should allow the user to select light and dark theme.
+
+### Back-End Repository https://github.com/atrp87/Back_End_Group_Project
