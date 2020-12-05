@@ -1,5 +1,6 @@
 ## Soical Mobile Application
 
+![alt text](https://github.com/atrp87/Front_End_Group_Project/blob/Master/Wireframe5.png?raw=true)
 Worked in a team of three where we used Agile methodologies (SCRUM), solo and mob programming.
 
 We had one week to create a Mobile application that allows users to create a profile of themselves with pictures and interests and they can swipe through suitable hosts. Users can select hosts to view their profile and if it meets the users social criteria they can match to the hosts venue or filter the hosts list to the users specific interests.
