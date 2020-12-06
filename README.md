@@ -1,4 +1,4 @@
-## Soical Mobile Application
+# Soical Mobile Application
 
 A native-app that allows users to create a profile and filters events to their style. Plug in your preferences to customisable fields and the app will display hosts, venues, location and budget.
 
